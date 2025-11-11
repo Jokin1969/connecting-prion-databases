@@ -1,0 +1,15 @@
+node_modules/
+package-lock.json
+.env
+*.db
+*.db-shm
+*.db-wal
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+dist/
+build/
+backups/
+tmp/
