@@ -1,14 +1,33 @@
+# Dependencies
 node_modules/
+
+# Environment variables
 .env
+
+# Database
 *.db
 *.db-shm
 *.db-wal
+
+# Logs
+logs/
 *.log
+
+# OS
 .DS_Store
 Thumbs.db
+
+# IDE
 .vscode/
 .idea/
+
+# Production
 dist/
 build/
+
+# Backups
 backups/
+
+# Temporary files
 tmp/
+temp/
